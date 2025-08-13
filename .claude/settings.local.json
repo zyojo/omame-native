@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npx tailwindcss:*)",
+      "Bash(npx expo install:*)",
+      "Bash(npx expo start:*)",
+      "mcp__ide__getDiagnostics",
+      "WebFetch(domain:www.nativewind.dev)",
+      "WebFetch(domain:docs.expo.dev)"
+    ],
+    "deny": []
+  }
+}
